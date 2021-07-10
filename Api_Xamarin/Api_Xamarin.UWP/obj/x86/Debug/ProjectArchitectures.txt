@@ -1,0 +1,1 @@
+X:\Xamarin\Api_Xamarin\Api_Xamarin\Api_Xamarin.UWP\Api_Xamarin.UWP.csproj;x86
